@@ -26,7 +26,20 @@ Challenge: Remove Commas: Challenge yourself to eliminate commas from numerical 
 ### Exploratory Data Analysis
 One of the project's highlights is the exploratory data analysis (EDA). We'll visualize sales and profit trends over time, which will provide valuable insights into the company's performance. This analysis will help uncover patterns, identify areas of improvement, and support data-driven decision-making.
 
+
+
+![bar graph sector wise](https://github.com/Sanket4545/In-depth-analysis-of-company-s-revenue/assets/103092841/b9c8ca76-15d2-4384-bdfd-95af9c3836ce)
+
+
+
 ![pie chart sector wise](https://github.com/Sanket4545/In-depth-analysis-of-company-s-revenue/assets/103092841/bc4fe6dd-89f1-4023-a9d1-12f10a9657de)
+
+
+
 ![sales bar graph](https://github.com/Sanket4545/In-depth-analysis-of-company-s-revenue/assets/103092841/5f681dac-6f04-4fbe-a1cc-76d7f76318d5)
+
+
+
+
 ![product wise profit pie chart](https://github.com/Sanket4545/In-depth-analysis-of-company-s-revenue/assets/103092841/009ae6a2-9ee2-4eee-a2d4-faee79e4019c)
 
